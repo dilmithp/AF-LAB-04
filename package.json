@@ -1,0 +1,23 @@
+{
+  "name": "af-lab-04",
+  "version": "1.0.0",
+  "description": "lab-04",
+  "keywords": [
+    "git"
+  ],
+  "homepage": "https://github.com/dilmithp/AF-LAB-04#readme",
+  "bugs": {
+    "url": "https://github.com/dilmithp/AF-LAB-04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilmithp/AF-LAB-04.git"
+  },
+  "license": "ISC",
+  "author": "Dilmith Pathirana",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
