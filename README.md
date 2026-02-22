@@ -1,6 +1,6 @@
 # SLIIT AF Lab 04
 
-## 👩‍🎓 Student Information
+## Student Information
 - Name: PATHIRANA P P D S S 
 - Student ID: IT23534254
 
